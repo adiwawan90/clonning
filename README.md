@@ -1,2 +1,2 @@
 # clonning
-clone
+clone indihome
